@@ -8,4 +8,3 @@ third third
 add cate cate
 
 user:hahajing
-utf8
